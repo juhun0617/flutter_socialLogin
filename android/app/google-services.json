@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "534246399569",
+    "project_id": "aioapp-405323",
+    "storage_bucket": "aioapp-405323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534246399569:android:5dea6010bf0b3dd6546270",
+        "android_client_info": {
+          "package_name": "com.AIO.aio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534246399569-j49l5slnq8bnth809j1958g4qpau8o5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3GnJBevJHzrGgYIAYDEK70YLnphOXPYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534246399569-j49l5slnq8bnth809j1958g4qpau8o5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "534246399569-17drokb472fgvhbikbh5epce0bu8gp26.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.AIO.aio.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
